@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
     <name>Hello World Index</name>
-    <id>HelloWorldIndex</id>
-    <author>Core Team</author>
+    <id>NearbyDatesIndex</id>
+    <author>Corfe Team</author>
     <description>A more enhanced Hello World Component, that installs a custom index page.</description>
     <license>GNU General Public License, version 2</license>
     <author_url>http://www.informatikon.com/</author_url>
